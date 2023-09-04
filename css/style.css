@@ -27,13 +27,15 @@ ul{
 }
 .nav{
     display: block;
-    padding: 15px 15px;
+    padding: 13px 13px;
     width: 100%;
     position: fixed;
     background-color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2)
 }   
 .nav img{
-    height: 2.5rem;
+    height: 2.2rem;
+    margin-left: 25px;
 }
 .background img{
     position: fixed;
